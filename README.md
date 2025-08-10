@@ -93,10 +93,4 @@ You can deploy this system on:
 
 ---
 
-## Contributing
-Pull requests are welcome! Please fork this repo and submit PRs with clear commit messages.
 
----
-
-## License
-This project is licensed under the MIT License.
